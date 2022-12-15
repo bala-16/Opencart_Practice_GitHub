@@ -1,0 +1,126 @@
+21:25:52.536 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Application is Opened ***
+21:25:52.590 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount ***
+21:25:53.181 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register ***
+21:25:53.252 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered First Name ***
+21:25:53.307 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Last Name ***
+21:25:53.387 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Email ***
+21:27:34.880 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Application is Opened ***
+21:27:34.935 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount ***
+21:27:35.490 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register ***
+21:27:35.561 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered First Name ***
+21:27:35.624 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Last Name ***
+21:27:35.700 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Email ***
+21:27:35.767 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered password ***
+21:27:35.947 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Checked the terms ***
+21:27:35.995 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Continue ***
+21:28:51.335 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Application is Opened ***
+21:28:51.387 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount ***
+21:28:52.006 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register ***
+21:28:52.073 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered First Name ***
+21:28:52.136 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Last Name ***
+21:28:52.204 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Email ***
+21:28:52.265 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered password ***
+21:28:52.320 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Checked the terms ***
+21:28:52.455 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Continue ***
+21:34:05.870 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Application is Opened ***
+21:34:05.925 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount ***
+21:34:06.480 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register ***
+21:34:06.549 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered First Name ***
+21:34:06.606 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Last Name ***
+21:34:06.679 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Email ***
+21:34:06.739 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered password ***
+21:34:06.798 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Checked the terms ***
+21:34:06.926 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Continue ***
+21:43:13.965 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Application is Opened ***
+21:43:14.020 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount ***
+21:43:14.605 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register ***
+21:43:14.677 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered First Name ***
+21:43:14.738 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Last Name ***
+21:43:14.812 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Email ***
+21:43:14.975 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered password ***
+21:43:15.024 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Checked the terms ***
+21:43:15.064 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Continue ***
+09:50:28.934 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Application is Opened ***
+09:50:29.002 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount ***
+09:50:30.092 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register ***
+09:50:30.174 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered First Name ***
+09:50:30.242 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Last Name ***
+09:50:30.314 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Email ***
+09:50:30.382 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered password ***
+09:50:30.559 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Checked the terms ***
+09:50:30.624 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Continue ***
+09:50:33.400 [main] INFO  testCases.TC002_LoginTest - *** Myaccount is Clicked ***
+09:50:33.835 [main] INFO  testCases.TC002_LoginTest - *** Login is Clicked ***
+09:50:33.917 [main] INFO  testCases.TC002_LoginTest - *** Entered login Email ***
+09:50:33.981 [main] INFO  testCases.TC002_LoginTest - *** Entered login Password ***
+09:50:34.027 [main] INFO  testCases.TC002_LoginTest - *** Clicked on Login ***
+09:52:16.853 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Application is Opened ***
+09:52:16.919 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount ***
+09:52:17.578 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register ***
+09:52:17.671 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered First Name ***
+09:52:17.731 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Last Name ***
+09:52:17.808 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Email ***
+09:52:17.865 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered password ***
+09:52:17.934 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Checked the terms ***
+09:52:18.122 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Continue ***
+09:52:20.658 [main] INFO  testCases.TC002_LoginTest - *** Myaccount is Clicked ***
+09:52:21.242 [main] INFO  testCases.TC002_LoginTest - *** Login is Clicked ***
+09:52:21.338 [main] INFO  testCases.TC002_LoginTest - *** Entered login Email ***
+09:52:21.395 [main] INFO  testCases.TC002_LoginTest - *** Entered login Password ***
+09:52:21.453 [main] INFO  testCases.TC002_LoginTest - *** Clicked on Login ***
+09:55:35.007 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Application is Opened ***
+09:55:35.069 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount ***
+09:55:35.643 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register ***
+09:55:35.722 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered First Name ***
+09:55:35.785 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Last Name ***
+09:55:35.867 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Email ***
+09:55:35.922 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered password ***
+09:55:35.982 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Checked the terms ***
+09:55:36.036 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Continue ***
+09:55:38.469 [main] INFO  testCases.TC002_LoginTest - *** Myaccount is Clicked ***
+09:55:38.996 [main] INFO  testCases.TC002_LoginTest - *** Login is Clicked ***
+09:55:39.070 [main] INFO  testCases.TC002_LoginTest - *** Entered login Email ***
+09:55:39.124 [main] INFO  testCases.TC002_LoginTest - *** Entered login Password ***
+09:55:39.169 [main] INFO  testCases.TC002_LoginTest - *** Clicked on Login ***
+08:47:10.699 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Application is Opened ***
+08:47:10.761 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount ***
+08:47:11.321 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register ***
+08:47:11.406 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered First Name ***
+08:47:11.464 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Last Name ***
+08:47:11.556 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Email ***
+08:47:11.623 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered password ***
+08:47:11.682 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Checked the terms ***
+08:47:11.846 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Continue ***
+08:47:13.724 [main] INFO  testCases.TC002_LoginTest - *** Myaccount is Clicked ***
+08:47:14.184 [main] INFO  testCases.TC002_LoginTest - *** Login is Clicked ***
+08:47:14.262 [main] INFO  testCases.TC002_LoginTest - *** Entered login Email ***
+08:47:14.319 [main] INFO  testCases.TC002_LoginTest - *** Entered login Password ***
+08:47:14.370 [main] INFO  testCases.TC002_LoginTest - *** Clicked on Login ***
+08:51:38.451 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Application is Opened ***
+08:51:38.513 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount ***
+08:51:38.971 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register ***
+08:51:39.042 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered First Name ***
+08:51:39.109 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Last Name ***
+08:51:39.187 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Email ***
+08:51:39.250 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered password ***
+08:51:39.315 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Checked the terms ***
+08:51:39.371 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Continue ***
+08:51:41.641 [main] INFO  testCases.TC002_LoginTest - *** Myaccount is Clicked ***
+08:51:42.035 [main] INFO  testCases.TC002_LoginTest - *** Login is Clicked ***
+08:51:42.156 [main] INFO  testCases.TC002_LoginTest - *** Entered login Email ***
+08:51:42.214 [main] INFO  testCases.TC002_LoginTest - *** Entered login Password ***
+08:51:42.263 [main] INFO  testCases.TC002_LoginTest - *** Clicked on Login ***
+08:56:33.654 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Application is Opened ***
+08:56:33.712 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount ***
+08:56:34.181 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register ***
+08:56:34.254 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered First Name ***
+08:56:34.313 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Last Name ***
+08:56:34.379 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered Email ***
+08:56:34.442 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entered password ***
+08:56:34.511 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Checked the terms ***
+08:56:34.571 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Continue ***
+08:56:37.055 [main] INFO  testCases.TC002_LoginTest - *** Myaccount is Clicked ***
+08:56:38.043 [main] INFO  testCases.TC002_LoginTest - *** Login is Clicked ***
+08:56:38.120 [main] INFO  testCases.TC002_LoginTest - *** Entered login Email ***
+08:56:38.183 [main] INFO  testCases.TC002_LoginTest - *** Entered login Password ***
+08:56:38.225 [main] INFO  testCases.TC002_LoginTest - *** Clicked on Login ***
